@@ -6,5 +6,4 @@ def sieve(n):
             for j in range(i*i,n,i):
                 a[i]=False
 sieve(100)
-                
-    
+#mahesh babus
